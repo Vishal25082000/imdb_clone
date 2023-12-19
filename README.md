@@ -1,4 +1,4 @@
-# imdb_clone
+# imdb_clone  https://vishal25082000.github.io/imdb_clone/
 
 Welcome to ReelConnect, the immersive IMDb clone crafted with HTML, CSS, and JavaScript, empowered by cutting-edge APIs. Immerse yourself in the world of cinema with this sleek and intuitive platform that brings the magic of movies right to your fingertips.
 
